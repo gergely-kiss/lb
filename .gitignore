@@ -1,0 +1,15 @@
+# Ignore save files and persistent data
+game/saves/
+*.persistent
+
+# Ignore automatically generated files
+*.log
+*.bak
+*.rpyc
+*.save
+
+# Ignore project settings and editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
